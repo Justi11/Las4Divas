@@ -1,0 +1,27 @@
+/* los comentarios se hacen igual q html con ctrl k c */
+/* a continuación selector universal */
+*{
+    margin: 5px;
+    padding: 5px;
+    background-color: lightpink;  
+}
+/* selector de etiqueta se aplica a una sola color */
+h1{
+    color: bisque;
+    background-color: brown;
+}
+h3{
+    color: brown;
+}
+table {
+         border: solid whitesmoke;
+        }
+    td {
+        border: solid whitesmoke;
+    }
+    th {
+        border: solid whitesmoke;
+    }
+
+
+    
