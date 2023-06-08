@@ -3,12 +3,12 @@
 *{
     margin: 5px;
     padding: 5px;
-    background-color: lightpink;  
+    background-color: rgb(246, 216, 221);  
 }
 /* selector de etiqueta se aplica a una sola color */
 h1{
-    color: bisque;
-    background-color: brown;
+    color: rgb(246, 216, 221);
+    background-color: rgb(176, 48, 48);
 }
 h3{
     color: brown;
